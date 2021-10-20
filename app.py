@@ -81,3 +81,4 @@ else:
     st.sidebar.success('Your probability of getting data scientist position is '+ str(round(float(val)*100,3)) + '.')
 
 
+
